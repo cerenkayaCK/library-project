@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+html,body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(235, 186, 186);
+    color: rgb(134, 122, 122);
+    font-family:monospace;
+}
